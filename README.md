@@ -4,6 +4,16 @@
 
 ## 설치 방법
 
+### 스크립트 사용 (권장)
+
+```bash
+./install.sh
+```
+
+스크립트가 자동으로 OS를 감지하고, 기존 설정을 `backup/` 디렉터리에 백업한 후 새 설정을 적용합니다.
+
+### 수동 설치
+
 ```bash
 # macOS
 cp config ~/Library/Application\ Support/com.mitchellh.ghostty/config
