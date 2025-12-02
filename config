@@ -74,6 +74,12 @@ keybind = ctrl+shift+j=resize_split:down,10
 # Split 균등 분할
 keybind = ctrl+e=equalize_splits
 
+# 스크롤 (5줄 단위)
+# 위로 스크롤
+keybind = ctrl+super+k=scroll_page_lines:-5
+# 아래로 스크롤
+keybind = ctrl+super+j=scroll_page_lines:5
+
 # ctrl+w 시퀀스 (Vim 스타일 창 관리)
 # 다음 탭으로 이동
 keybind = ctrl+w>ctrl+w=next_tab

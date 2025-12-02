@@ -35,6 +35,12 @@ cp config ~/.config/ghostty/config
 | `ctrl+shift+j` | 아래로 확장 |
 | `ctrl+e` | 균등 분할 |
 
+#### 스크롤 (Vim 스타일)
+| 키 | 동작 |
+|---|---|
+| `ctrl+cmd+k` | 위로 5줄 스크롤 |
+| `ctrl+cmd+j` | 아래로 5줄 스크롤 |
+
 #### ctrl+w 시퀀스 (Vim 스타일 창 관리)
 | 키 시퀀스 | 동작 |
 |---|---|
