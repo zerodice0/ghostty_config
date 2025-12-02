@@ -55,6 +55,8 @@ cp config ~/.config/ghostty/config
 | 키 시퀀스 | 동작 |
 |---|---|
 | `ctrl+w` → `ctrl+w` | 다음 탭 |
+| `ctrl+w` → `ctrl+shift+w` | 이전 탭 |
+| `ctrl+shift+w` → `ctrl+shift+w` | 이전 탭 |
 | `ctrl+w` → `ctrl+q` | surface 종료 |
 | `ctrl+w` → `ctrl+r` | 터미널 리셋 |
 | `ctrl+w` → `ctrl+h/j/k/l` | split 이동 |

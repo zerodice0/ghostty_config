@@ -83,6 +83,9 @@ keybind = ctrl+super+j=scroll_page_lines:5
 # ctrl+w 시퀀스 (Vim 스타일 창 관리)
 # 다음 탭으로 이동
 keybind = ctrl+w>ctrl+w=next_tab
+# 이전 탭으로 이동
+keybind = ctrl+w>ctrl+shift+w=previous_tab
+keybind = ctrl+shift+w>ctrl+shift+w=previous_tab
 # 현재 surface 종료
 keybind = ctrl+w>ctrl+q=close_surface
 # 터미널 리셋
