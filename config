@@ -102,3 +102,6 @@ keybind = ctrl+w>ctrl+l=goto_split:right
 keybind = ctrl+w>s=new_split:down
 # 오른쪽 방향으로 split 생성 (vertical)
 keybind = ctrl+w>v=new_split:right
+
+# ctrl+d 차단 (실수로 pane 종료 방지)
+keybind = ctrl+d=unbind
