@@ -48,7 +48,7 @@
 # # Just for example:
 # resize-overlay-duration = 4s 200ms
 
-theme = Birds Of Paradise
+theme = Apple System Colors
 font-family = "Hack Nerd Font Mono"
 
 # 기타
