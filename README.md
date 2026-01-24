@@ -27,6 +27,23 @@ cp config ~/.config/ghostty/config
 ### 테마 및 폰트
 - **테마**: Birds Of Paradise
 - **폰트**: Hack Nerd Font Mono
+- **CJK 폰트**: D2Coding (한글, 일본어, 중국어용)
+
+#### 폰트 설치 방법
+
+**Hack Nerd Font Mono**
+```bash
+# macOS (Homebrew)
+brew install --cask font-hack-nerd-font
+```
+또는 [Nerd Fonts](https://www.nerdfonts.com/)에서 다운로드
+
+**D2Coding**
+```bash
+# macOS (Homebrew)
+brew install --cask font-d2coding
+```
+또는 [D2Coding GitHub](https://github.com/naver/d2codingfont)에서 다운로드
 
 ### 키바인딩
 

@@ -49,7 +49,7 @@
 # resize-overlay-duration = 4s 200ms
 
 theme = Apple System Colors
-font-family = "Hack Nerd Font Mono"
+font-family = "D2Coding"
 
 # 기타
 # Shift+Enter로 Escape 시퀀스 전송
