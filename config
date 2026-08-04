@@ -61,16 +61,6 @@ keybind = super+alt+shift+right=next_tab
 # 이전 탭으로 이동
 keybind = super+alt+shift+left=previous_tab
 
-# Split 크기 조절 (Vim 스타일 hjkl, 10픽셀 단위)
-# 오른쪽으로 확장
-keybind = ctrl+shift+l=resize_split:right,10
-# 왼쪽으로 확장
-keybind = ctrl+shift+h=resize_split:left,10
-# 위로 확장
-keybind = ctrl+shift+k=resize_split:up,10
-# 아래로 확장
-keybind = ctrl+shift+j=resize_split:down,10
-
 # Split 균등 분할
 keybind = ctrl+e=equalize_splits
 

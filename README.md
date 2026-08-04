@@ -53,13 +53,9 @@ brew install --cask font-d2coding
 | `super+alt+shift+right` | 다음 탭 |
 | `super+alt+shift+left` | 이전 탭 |
 
-#### Split 크기 조절 (Vim 스타일)
+#### Split 관리
 | 키 | 동작 |
 |---|---|
-| `ctrl+shift+h` | 왼쪽으로 확장 |
-| `ctrl+shift+l` | 오른쪽으로 확장 |
-| `ctrl+shift+k` | 위로 확장 |
-| `ctrl+shift+j` | 아래로 확장 |
 | `ctrl+e` | 균등 분할 |
 
 #### 스크롤 (Vim 스타일)
