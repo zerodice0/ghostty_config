@@ -50,6 +50,7 @@
 
 theme = Apple System Colors
 font-family = "D2Coding"
+font-size = 10
 
 # 기타
 # Shift+Enter로 Escape 시퀀스 전송
