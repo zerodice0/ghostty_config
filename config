@@ -55,6 +55,9 @@ font-family = "D2Coding"
 # Shift+Enter로 Escape 시퀀스 전송
 keybind = shift+enter=text:\x1b\r
 
+# ghostty 내에서 마우스 휠 속도 감소
+mouse-scroll-multiplier = discrete:0.25
+
 # 탭 이동
 # 다음 탭으로 이동
 keybind = super+alt+shift+right=next_tab
